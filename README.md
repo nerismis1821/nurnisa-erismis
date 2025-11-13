@@ -36,7 +36,7 @@ These demonstrate:
 ---
 
 ## 🌐 External Links
-- **LinkedIn:** *your LinkedIn link here*  
+- **LinkedIn:** *https://www.linkedin.com/in/nurnisa-erismis-8a207b340/
 - **Publications:** Keghart.org | Academia.edu  
 
 ---
